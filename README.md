@@ -56,8 +56,8 @@ A big thank-you to **Alex The Analyst (Alex Freberg)** for crafting such a compr
 ---
 
 ## Additional Resources
-- Original Tutorial – Learn SQL Beginner to Advanced in Under 4 Hours
-- Alex The Analyst’s GitHub – MySQL YouTube Series
+- [Original Tutorial – Learn SQL Beginner to Advanced in Under 4 Hours](https://www.youtube.com/watch?v=OT1RErkfLNQ&ab_channel=AlexTheAnalyst)
+- [Alex The Analyst’s GitHub – MySQL YouTube Series](https://github.com/AlexTheAnalyst/MySQL-YouTube-Series)
 
 ---
 
